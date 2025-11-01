@@ -1,0 +1,6 @@
+# not sending any data files to the git repo 
+
+*.csv
+data/
+data_compressed/
+datasets/

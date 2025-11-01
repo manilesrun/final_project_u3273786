@@ -1,0 +1,10 @@
+# this code is made with jupyter notebook  
+
+
+# necessary libraries 
+pandas
+numpy
+pathlib2
+scikit-learn
+matplotlib
+seaborn

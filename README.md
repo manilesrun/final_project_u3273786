@@ -26,7 +26,7 @@ The dataset can be downloaded via this [link](https://ucstaff-my.sharepoint.com/
 To view what are the features in the dataset, one can use this [link](https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ)
 
 
-## Objective from Step 1-4
+## Objectives from Step 1-4
 
 The main objective is to:
 

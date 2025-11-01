@@ -25,7 +25,6 @@ The dataset spans **60 compressed monthly CSV files** covering five years of dat
 The dataset can be downloaded via this [link](https://ucstaff-my.sharepoint.com/:f:/g/personal/ibrahim_radwan_canberra_edu_au/EhWeqeQsh-9Mr1fneZc9_0sBOBzEdXngvxFJtAlIa-eAgA?e=8ukWwa).
 To view what are the features in the dataset, one can use this [link](https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ)
 
----
 
 ## Objective from Step 1-4
 
@@ -35,7 +34,6 @@ The main objective is to:
 - Evaluate model performance using metrics such as **accuracy**, **precision**, **recall**, **F1-score**, and **ROC-AUC**.
 - Analyse the results to see what can be improved
 
----
 
 ## Results Summary
 
@@ -56,7 +54,6 @@ However, overall performance indicates that the model struggles with class imbal
 - **Low precision (about 28%)** and **moderate recall (around 61%)** suggest the model produces many false positives while missing some actual delays.
 - This provides a **useful baseline**, but further improvement is needed through **feature engineering** and **advanced models** such as Random Forest.
 
----
 
 ## How to run
 

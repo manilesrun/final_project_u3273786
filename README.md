@@ -6,7 +6,7 @@ This project aims to build a **machine learning model (base model)** to predict 
 
 By leveraging historical flight performance data from the **Bureau of Transportation Statistics (BTS)**, the goal is to train and evaluate predictive models that estimate whether a flight will be delayed at major U.S. airports.
 
----
+
 
 ## About the Dataset
 

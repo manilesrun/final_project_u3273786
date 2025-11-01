@@ -74,8 +74,8 @@ However, overall performance indicates that the model struggles with class imbal
 - Open the `requirements.txt` file and use **pip** to install all the listed dependencies.
 
 4. **Usage**
-Launch Jupyter Notebook:
+- Launch Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
-Open the notebook file named **`onpremises (1).ipynb`** and run all cells sequentially to reproduce the results.
+- Open the notebook file named **`onpremises (1).ipynb`** and run all cells sequentially to reproduce the results.

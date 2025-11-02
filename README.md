@@ -6,8 +6,6 @@ This project aims to build a **machine learning model (base model)** to predict 
 
 By leveraging historical flight performance data from the **Bureau of Transportation Statistics (BTS)**, the goal is to train and evaluate predictive models that estimate whether a flight will be delayed at major U.S. airports.
 
-
-
 ## About the Dataset
 
 The dataset, collected by the **Office of Airline Information (BTS)**, contains records of **domestic flights from 2014 to 2018** operated by major U.S. air carriers (each representing at least 1% of domestic passenger revenue).
@@ -25,7 +23,6 @@ The dataset spans **60 compressed monthly CSV files** covering five years of dat
 The dataset can be downloaded via this [link](https://ucstaff-my.sharepoint.com/:f:/g/personal/ibrahim_radwan_canberra_edu_au/EhWeqeQsh-9Mr1fneZc9_0sBOBzEdXngvxFJtAlIa-eAgA?e=8ukWwa).
 To view what are the features in the dataset, one can use this [link](https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ)
 
-
 ## Objectives from Step 1-4
 
 The main objective is to:
@@ -33,7 +30,6 @@ The main objective is to:
 - Develop a **predictive model (base model)** that determines the likelihood of flight delays.
 - Evaluate model performance using metrics such as **accuracy**, **precision**, **recall**, **F1-score**, and **ROC-AUC**.
 - Analyse the results to see what can be improved
-
 
 ## Results Summary
 
@@ -54,7 +50,6 @@ However, overall performance indicates that the model struggles with class imbal
 - **Low precision (about 28%)** and **moderate recall (around 61%)** suggest the model produces many false positives while missing some actual delays.
 - This provides a **useful baseline**, but further improvement is needed through **feature engineering** and **advanced models** such as Random Forest.
 
-
 ## How to run
 
 1. **Clone this project**
@@ -74,8 +69,11 @@ However, overall performance indicates that the model struggles with class imbal
 - Open the `requirements.txt` file and use **pip** to install all the listed dependencies.
 
 4. **Usage**
+
 - Launch Jupyter Notebook:
+
 ```bash
 jupyter notebook
 ```
+
 - Open the notebook file named **`onpremises (1).ipynb`** and run all cells sequentially to reproduce the results.
